@@ -19,8 +19,8 @@
         <mxCell id="s3uVfyv18aIW7vPq7CHv-5" value="api交互" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="305" y="320" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s3uVfyv18aIW7vPq7CHv-6" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="270" y="410" width="100" height="40" as="geometry" />
+        <mxCell id="s3uVfyv18aIW7vPq7CHv-6" value="数据存储mysql" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="410" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
