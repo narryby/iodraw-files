@@ -43,12 +43,6 @@
             <mxPoint x="450" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s3uVfyv18aIW7vPq7CHv-13" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="310" y="370" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="s3uVfyv18aIW7vPq7CHv-14" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="310" y="370" width="100" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="s3uVfyv18aIW7vPq7CHv-16" value="实验室预约模块" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="220" y="160" width="100" height="40" as="geometry" />
         </mxCell>
