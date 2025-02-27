@@ -53,12 +53,12 @@
           <mxGeometry x="280" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s3uVfyv18aIW7vPq7CHv-17" value="实验室报告" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="405" y="160" width="100" height="40" as="geometry" />
+          <mxGeometry x="406" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s3uVfyv18aIW7vPq7CHv-18" value="管理员模块" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="530" y="160" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s3uVfyv18aIW7vPq7CHv-19" value="Entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="s3uVfyv18aIW7vPq7CHv-19" value="数据统计模块" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="660" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s3uVfyv18aIW7vPq7CHv-24" value="登录模块" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
