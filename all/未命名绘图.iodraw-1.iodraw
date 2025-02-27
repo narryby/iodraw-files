@@ -50,7 +50,7 @@
           <mxGeometry x="310" y="370" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s3uVfyv18aIW7vPq7CHv-16" value="实验室预约模块" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="280" y="160" width="100" height="40" as="geometry" />
+          <mxGeometry x="220" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s3uVfyv18aIW7vPq7CHv-17" value="实验室报告模块" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="407" y="160" width="100" height="40" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="660" y="160" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s3uVfyv18aIW7vPq7CHv-24" value="登录模块" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="80" y="150" width="100" height="40" as="geometry" />
+          <mxGeometry x="80" y="160" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
